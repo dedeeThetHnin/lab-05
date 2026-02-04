@@ -2,10 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Thet Hnin Hsu>`
+- **CCID:** `<thethnin>`
 
 ## References and Resources
+- Lab-5 demo instructions
+- the help from the TA in Lab 
 
 List any resources used here, or simply put `N/A` if not applicable.
 
