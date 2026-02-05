@@ -17,6 +17,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginStart="10dp"/>
+    
+    <TextView
+        android:id="@+id/textDeleteInstruction"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text = "(**Long Press city to delete)"
+        android:textColor="#FF0000"
+        android:textSize = "15dp"
+        android:textStyle = "bold|italic"
+        android:layout_marginStart="12dp"
+        app:layout_constraintBottom_toBottomOf="@+id/buttonAddCity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/buttonAddCity"
+        app:layout_constraintTop_toTopOf="@+id/buttonAddCity"/>
 
     <ListView
         android:id="@+id/listviewCities"
